@@ -1,2 +1,2 @@
 # comp-4448-final-project
-Kaggle Competition: Predict Student Performance from Gamplay
+Predict whether or not a YouTube video is popular or not.
